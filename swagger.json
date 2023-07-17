@@ -1,0 +1,9 @@
+{
+  "swagger": "2.0",
+  "definition": {
+    "openapi": "3.0.0",
+    "info": {
+      "title": "TEST API"
+    }
+  }
+}
